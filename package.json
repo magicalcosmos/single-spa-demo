@@ -1,0 +1,17 @@
+{
+  "name": "single-spa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "single-spa": "^6.0.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.7"
+  }
+}
